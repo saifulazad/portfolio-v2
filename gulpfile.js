@@ -87,13 +87,9 @@ gulp.task('browserSync', function() {
 
 
 var filesToMove = [
-        './js/**/*.*',
-        './img/**/*.*',
-        './css/**/*.*',
-        './vendor/**/*.*',
-	'./files/**/*.*',
+    './assets/**/*.*',
 	'./index.html',
-	'./404.html',
+    './404.html'
     ];
 
 //copy files to public 
