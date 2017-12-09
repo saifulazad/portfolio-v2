@@ -192,7 +192,7 @@ html,body{
 --------------------------------------*/
 /*===banner-image=== */
 .banner {
-	background:url(../../Assets/images/banner.jpg);
+	background:url(../../assets/images/banner.jpg);
 	background-position:center;
 	background-repeat:no-repeat;
 	background-size:cover;
